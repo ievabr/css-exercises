@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.odd {
+    background-color: #ffe4e1;
+    font-family: "Verdana", "Dejavu Sans", "sans-serif";
+}
+.odd.font {
+    font-size: 24px;
+}
+
+#n2 {
+    color: #00008b;
+    font-size: 36px;
+}
+
+#n4 {
+    color: #d0ff14;
+    font-size: 24px;
+    font-weight:800;
+}
