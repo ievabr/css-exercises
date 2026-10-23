@@ -22,7 +22,7 @@ When the browser is stretched wide:
 - The grid has four rows
 - The grid tracks do not use static sizes (no pixels!)
 - The second column is three times as large as the other
-- The third row is five times as large as the others
+- The  fivthird row ise times as large as the others
 - The columns narrow and widen as the viewport changes size
 - Row 3 gets taller to accommodate text wrapping as you narrow the viewport size 
 
